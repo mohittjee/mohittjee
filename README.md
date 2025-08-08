@@ -41,7 +41,7 @@ I am a Web developer, having more than 2 years of hands on experience in front e
 </P> 
 
 
-- 📫                                        How to reach me: **mohittjee@gmail.com**
+- 📫                                        How to reach me: **calmnrd@gmail.com**
 
 <br><br>
 <hr>
