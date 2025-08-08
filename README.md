@@ -19,10 +19,8 @@ Here are some ideas to get you started:
          height="45"
          width="45" />, I'm Mohit </h1>
 <h5 align="center">
-A 3rd-year student pursuing Bachelors in Computer Application. I am a Web developer, and I've interest in Web3 technology. 
+I am a Web developer, having more than 2 years of hands on experience in front end development.
 </h5>
-
-[![GitHub Card](https://ywxtbyotqjqwhgbwzgto.supabase.co/functions/v1/github-card-image/calmnerd.svg?v=1752312016848)](https://ae328e1d-b043-4009-bc24-3f638edb67dc.lovableproject.com/card/github-contribution/calmnerd)
 
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=calmnerd&label=Profile%20views&color=0e75b6&style=flat" alt="mohittjee" /> </p> -->
